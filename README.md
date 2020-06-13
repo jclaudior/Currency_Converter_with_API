@@ -1,6 +1,14 @@
-# conversormoedasapiflutter
+# Currency_Converter_with_API
 
-A new Flutter application.
+
+Flutter application for modding using HG Finance API
+
+https://hgbrasil.com/status/finance
+
+## Screen Shootings 
+<img src="https://uploaddeimagens.com.br/images/002/705/066/full/1.jpg">
+<img src="https://uploaddeimagens.com.br/images/002/705/067/full/2.jpg">
+
 
 ## Getting Started
 
